@@ -6,7 +6,7 @@
 http://shizuilab.com
 
 # Twitter
-@habingofit; personal account 
+@habingofit; personal account  
 @shizuilab; company account
 <!---
 shizuilab/shizuilab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
