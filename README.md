@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shizuilab, a venture company from Japan.
-- 👀 I’m interested in IoT and Blockchain to build a traceability system specified for regenerative medicine.
+- 👀 I’m interested in IoT and Blockchain to build a traceability system used for regenerative medicine.
 - 📫 Please follow me @habingofit and @shizuilab
 
 # Homepage
